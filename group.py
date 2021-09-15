@@ -22,3 +22,6 @@ if __name__ == '__main__':
     ## Sam ##
     individual("Sam", "Senior", "MIS", "Jesus, Running, Rock Climbing, Hiking", "Mid-West", "I wear the same clothes")
 
+    ## Bohdi ##
+    individual("Bohdi", "Sophomore", "CS", "Reading, I do nothing else", "Kalispell", "I like Bigfoot")
+
