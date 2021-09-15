@@ -20,5 +20,5 @@ if __name__ == '__main__':
     group("The Backseat Boyz", "CSCI 291", "Fall 2021")
 
     ## Sam ##
-    individual("Sam", "Senior", "MIS", "Running, Rock Climbing, Hiking", "Mid-West", "I wear the same clothes")
+    individual("Sam", "Senior", "MIS", "Jesus, Running, Rock Climbing, Hiking", "Mid-West", "I wear the same clothes")
 
