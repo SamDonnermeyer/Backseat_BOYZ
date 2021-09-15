@@ -23,5 +23,5 @@ if __name__ == '__main__':
     individual("Sam", "Senior", "MIS", "Jesus, Running, Rock Climbing, Hiking", "Mid-West", "I wear the same clothes")
 
     ## Bohdi ##
-    individual("Bohdi", "Sophomore", "CS", "Reading, I do nothing else", "Kalispell", "I like Bigfoot")
+    individual("Bohdi", "Sophomore", "CS", "Reading, I do nothing else - and you eat sometimes", "Kalispell", "I like Bigfoot")
 
