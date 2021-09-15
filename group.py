@@ -1,18 +1,18 @@
 ## Function for Group ##
 def group(name, course, semester):
-    print("Group Name: " & name)
-    print("Course: " & course)
-    print("Time: " & semester)
+    print("Group Name: " + str(name))
+    print("Course: " + course)
+    print("Time: " + semester)
 
 ### Functions for each Group Member ###
 def individual(name, year, major, hobbies, origin, interesting):
     print("---\n")
-    print("Name: " & name)
-    print("Year in School: " & year)
-    print("Major: " & major)
-    print("Hobbies: " & hobbies)
-    print("Home Town: " & origin)
-    print("Interesting Facts: " & interesting)
+    print("Name: " + name)
+    print("Year in School: " + year)
+    print("Major: " + major)
+    print("Hobbies: " + hobbies)
+    print("Home Town: " + origin)
+    print("Interesting Facts: " + interesting)
 
 ## Main ##
 if __name__ == '__main__':
